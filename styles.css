@@ -15,7 +15,7 @@ body {
     background-color: #ffebee;
     padding: 40px;
     border-radius: 20px;
-    border: 3px solid #ff5733;
+    border: 3px solid #ffAA0;
     box-shadow: 0 8px 20px rgba(255, 107, 129, 0.3);
     max-width: 400px;
     width: 90%;
@@ -23,7 +23,7 @@ body {
 
 .header_text {
     font-size: 36px;
-    color: #ff5733;
+    color: #ffAA0;
     margin-bottom: 20px;
     text-shadow: 2px 2px 4px rgba(255, 107, 129, 0.2);
 }
